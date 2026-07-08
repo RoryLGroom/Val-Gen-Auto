@@ -1,0 +1,13 @@
+name: val-gen-auto
+
+services:
+  api:
+    build: 
+      context: ./src/backend
+      dockerfile: Dockerfile
+    env_file: src/backend/.env.production
+    environment: 
+      PORT: 8000
+    ports:
+      - "8000:8000"
+    
