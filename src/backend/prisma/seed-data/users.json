@@ -1,0 +1,142 @@
+[
+    {
+        "firstName": "Ada",
+        "lastName": "Lovelace",
+        "email": "ada.lovelace@example.com",
+        "hashedPassword": "password",
+        "role": "ADMIN"
+    },
+    {
+        "firstName": "Alan",
+        "lastName": "Turing",
+        "email": "alan.turing@example.com",
+        "hashedPassword": "password",
+        "role": "USER"
+    },
+    {
+        "firstName": "Grace",
+        "lastName": "Hopper",
+        "email": "grace.hopper@example.com",
+        "hashedPassword": "password",
+        "role": "ADMIN"
+    },
+    {
+        "firstName": "Linus",
+        "lastName": "Torvalds",
+        "email": "linus.torvalds@example.com",
+        "hashedPassword": "password",
+        "role": "USER"
+    },
+    {
+        "firstName": "Margaret",
+        "lastName": "Hamilton",
+        "email": "margaret.hamilton@example.com",
+        "hashedPassword": "password",
+        "role": "USER"
+    },
+    {
+        "firstName": "Tim",
+        "lastName": "Berners-Lee",
+        "email": "tim.bernerslee@example.com",
+        "hashedPassword": "password",
+        "role": "USER"
+    },
+    {
+        "firstName": "Katherine",
+        "lastName": "Johnson",
+        "email": "katherine.johnson@example.com",
+        "hashedPassword": "password",
+        "role": "USER"
+    },
+    {
+        "firstName": "Dennis",
+        "lastName": "Ritchie",
+        "email": "dennis.ritchie@example.com",
+        "hashedPassword": "password",
+        "role": "ADMIN"
+    },
+    {
+        "firstName": "Barbara",
+        "lastName": "Liskov",
+        "email": "barbara.liskov@example.com",
+        "hashedPassword": "password",
+        "role": "USER"
+    },
+    {
+        "firstName": "Guido",
+        "lastName": "van Rossum",
+        "email": "guido.vanrossum@example.com",
+        "hashedPassword": "password",
+        "role": "USER"
+    },
+    {
+        "firstName": "Radia",
+        "lastName": "Perlman",
+        "email": "radia.perlman@example.com",
+        "hashedPassword": "password",
+        "role": "USER"
+    },
+    {
+        "firstName": "John",
+        "lastName": "Carmack",
+        "email": "john.carmack@example.com",
+        "hashedPassword": "password",
+        "role": "USER"
+    },
+    {
+        "firstName": "Anita",
+        "lastName": "Borg",
+        "email": "anita.borg@example.com",
+        "hashedPassword": "password",
+        "role": "ADMIN"
+    },
+    {
+        "firstName": "Ken",
+        "lastName": "Thompson",
+        "email": "ken.thompson@example.com",
+        "hashedPassword": "password",
+        "role": "USER"
+    },
+    {
+        "firstName": "Sophie",
+        "lastName": "Wilson",
+        "email": "sophie.wilson@example.com",
+        "hashedPassword": "password",
+        "role": "USER"
+    },
+    {
+        "firstName": "Vint",
+        "lastName": "Cerf",
+        "email": "vint.cerf@example.com",
+        "hashedPassword": "password",
+        "role": "ADMIN"
+    },
+    {
+        "firstName": "Shafi",
+        "lastName": "Goldwasser",
+        "email": "shafi.goldwasser@example.com",
+        "hashedPassword": "password",
+        "role": "USER"
+    },
+    {
+        "firstName": "James",
+        "lastName": "Gosling",
+        "email": "james.gosling@example.com",
+        "hashedPassword": "password",
+        "role": "USER"
+    },
+    {
+        "firstName": "Frances",
+        "lastName": "Allen",
+        "email": "frances.allen@example.com",
+        "hashedPassword": "password",
+        "role": "USER"
+    },
+    {
+        "firstName": "Bjarne",
+        "lastName": "Stroustrup",
+        "email": "bjarne.stroustrup@example.com",
+        "hashedPassword": "password",
+        "role": "USER"
+    }
+]
